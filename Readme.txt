@@ -1,7 +1,3 @@
-----------------------------------------------------------------------
-Readme - Predicting View Changes in Argumentative Discussions 
-----------------------------------------------------------------------
-
 ======================================
 About data
 ======================================
@@ -27,9 +23,9 @@ Explanation of the data files:
 ======================================
 About code
 ======================================
-    Under the root directory, there are notebooks:
-        linearCRF.ipynb
-        skipCRF.ipynb
+    Under the root directory, there are .ipynb notebooks and .py files for:
+        linearCRF
+        skipCRF
 
     , and a file contains dependencies (packages and modules):
         requirement.txt 
