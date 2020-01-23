@@ -1,13 +1,12 @@
 ----------------------------------------------------------------------
 Readme - Predicting View Changes in Argumentative Discussions 
 ----------------------------------------------------------------------
-This the a README for the supplementary materials of submission # 1410 - Predicting View Changes in Argumentative Discussions.
 
 ======================================
 About data
 ======================================
 
-Data files are submitted separately from code. Please unzip the files and put the folder under the root directory of the submitted code.
+Data files are uploaded separately from code. Please unzip the files and put the folder under the root directory of the submitted code.
 
 Explanation of the data files:
 
